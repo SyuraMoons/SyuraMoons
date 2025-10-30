@@ -1,38 +1,19 @@
-# 👋 Hi, I'm Muhamad Harfi Ibadurahman
+# 👋 Hi, I'm Harfi
 
-💻 **Fullstack & Blockchain Developer**  
-🎓 Computer Science student at Universitas Gadjah Mada  
-🔗 Passionate about building efficient systems, dApps, and real-world solutions.
+I'm passionate about programming and blockchain.  
 
 ---
 
-### 🧠 Tech Stack
-- **Frontend:** React, Next.js, React Native, TailwindCSS  
-- **Backend:** Node.js, Express, Supabase, PostgreSQL, Prisma  
-- **Blockchain:** Solidity, Anchor, Solana, Base L2  
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SyuraMoons&show_icons=true&theme=default&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyuraMoons&layout=compact&theme=default&hide_border=true" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SyuraMoons&theme=default&hide_border=true" height="150" />
-</p>
-
----
-
-### 🚀 Current Focus
-- Building fullstack dApps and DePIN projects  
-- Exploring DeFi & smart contract systems  
-- Participating in hackathons and open-source communities  
-
----
-
-### 📫 Contact
+### 📫 Reach Me
 📧 **harfiibadurahman@gmail.com**  
-💼 [LinkedIn](https://www.linkedin.com/in/muhamad-harfi-ibadurahman-13a25b22a/) • 🐦 [Twitter / X](#)
+💼 [LinkedIn](https://www.linkedin.com/in/muhamad-harfi-ibadurahman-13a25b22a/)  
+🐦 [Twitter / X](#)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SyuraMoons&show_icons=true&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyuraMoons&layout=compact&hide_border=true" height="150" />
+</p>
