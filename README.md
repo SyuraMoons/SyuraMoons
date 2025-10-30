@@ -2,31 +2,37 @@
 
 💻 **Fullstack & Blockchain Developer**  
 🎓 Computer Science student at Universitas Gadjah Mada  
-🌐 Passionate about building scalable apps and decentralized systems  
+🔗 Passionate about building efficient systems, dApps, and real-world solutions.
 
 ---
 
-### 🧩 Tech Stack
+### 🧠 Tech Stack
 - **Frontend:** React, Next.js, React Native, TailwindCSS  
 - **Backend:** Node.js, Express, Supabase, PostgreSQL, Prisma  
-- **Blockchain/Web3:** Solidity, Anchor, Solana, Base L2, Cardano  
+- **Blockchain:** Solidity, Anchor, Solana, Base L2  
 
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harfiibadurahman&show_icons=true&theme=default&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harfiibadurahman&layout=compact&theme=default&hide_border=true" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harfiibadurahman&theme=default&hide_border=true" height="150" />
+</p>
 
 ---
 
 ### 🚀 Current Focus
-- Building fullstack dApps with modern frameworks  
-- Exploring DeFi, smart contracts & DePIN systems  
-- Participating in hackathons and open-source projects  
+- Building fullstack dApps and DePIN projects  
+- Exploring DeFi & smart contract systems  
+- Participating in hackathons and open-source communities  
 
 ---
 
-### 📫 Connect with me
-- 🌍 [Portfolio Website](#) *(coming soon)*  
-- 💼 [LinkedIn](https://www.linkedin.com/in/muhamad-harfi-ibadurahman-13a25b22a/)  
-- 🐦 [Twitter / X](#)  
-- 📧 harfiibadurahman@gmail.com  
-
----
-
-⭐ **“Build things that matter — both onchain and off.”**
+### 📫 Contact
+📧 **harfiibadurahman@gmail.com**  
+💼 [LinkedIn](https://www.linkedin.com/in/muhamad-harfi-ibadurahman-13a25b22a/) • 🐦 [Twitter / X](#)
