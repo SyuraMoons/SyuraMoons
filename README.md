@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Muhamad Harfi Ibadurahman
 
-<!--
-**SyuraMoons/SyuraMoons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Fullstack & Blockchain Developer**  
+🎓 Computer Science student at Universitas Gadjah Mada  
+🌐 Passionate about building scalable apps and decentralized systems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧩 Tech Stack
+- **Frontend:** React, Next.js, React Native, TailwindCSS  
+- **Backend:** Node.js, Express, Supabase, PostgreSQL, Prisma  
+- **Blockchain/Web3:** Solidity, Anchor, Solana, Base L2, Cardano  
+
+
+---
+
+### 🚀 Current Focus
+- Building fullstack dApps with modern frameworks  
+- Exploring DeFi, smart contracts & DePIN systems  
+- Participating in hackathons and open-source projects  
+
+---
+
+### 📫 Connect with me
+- 🌍 [Portfolio Website](#) *(coming soon)*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhamad-harfi-ibadurahman-13a25b22a/)  
+- 🐦 [Twitter / X](#)  
+- 📧 harfiibadurahman@gmail.com  
+
+---
+
+⭐ **“Build things that matter — both onchain and off.”**
