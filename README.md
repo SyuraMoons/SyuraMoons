@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Harfi
 
-I'm passionate about programming and blockchain.  
+I'm passionate about programming, AI and blockchain.  
 
 ---
 
