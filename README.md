@@ -7,7 +7,6 @@ I'm passionate about programming, AI and blockchain.
 ### 📫 Reach Me
 📧 **harfiibadurahman@gmail.com**  
 💼 [LinkedIn](https://www.linkedin.com/in/muhamad-harfi-ibadurahman-13a25b22a/)  
-🐦 [Twitter / X](#)
 
 ---
 
